@@ -1,0 +1,8 @@
+23/02/2022 07:23:23 PM - INFO - Test_001_Booking : ********************** Test_001_Booking with required data *****************************
+23/02/2022 07:23:28 PM - INFO - BookerHomePage : ********************** All required data are entered successfully **********************
+23/02/2022 07:23:28 PM - INFO - Test_001_Booking : ********************** Test_002_Entering personal data in all mandatory fields *****************************
+23/02/2022 07:23:42 PM - INFO - EnterDetails : ********************** All required personal data are entered successfully **********************
+23/02/2022 07:23:47 PM - INFO - Test_001_Booking : ********************** Test_003_Entering payment paramenters *****************************
+23/02/2022 07:23:55 PM - INFO - FinalStep : ********************** All required data for payment are entered successfully **********************
+23/02/2022 07:24:00 PM - INFO - Test_001_Booking : ********************** Test_003_Verifying booking data *****************************
+23/02/2022 07:24:07 PM - INFO - FinalPage : ********************** Verification is successful ********************** 
